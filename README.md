@@ -1,4 +1,11 @@
 # Laboratorio-1
+
+INTEGRANTES:
+
+- AGUIRRE JOHANN
+- CALAHORRANO SARAHI
+- LARA MELANY
+
 1. OBEJTIVOS
 
   * Objetivo General:
